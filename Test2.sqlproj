@@ -181,10 +181,9 @@
     <None Include="Schema-Model\dbo\Tables\Sample1.sql" />
     <None Include="Schema-Model\dbo\Tables\Test.sql" />
     <None Include="Schema-Model\dbo\Tables\Test1.sql" />
-    <None Include="Schema-Model\Security\Users\ZL_L04R6835861.sql" />
-    <None Include="Schema-Model\Security\Roles\db_owner.sql" />
     <None Include="Migrations\1.1.0-Changes\002_20210905-2120_OINV5657537.sql" />
     <None Include="Schema-Model\dbo\Tables\Employee1.sql" />
+    <None Include="Migrations\1.1.0-Changes\003_20210905-2124_OINV5657537.sql" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Pre-Deployment\01_Initialize_Deployment.sql" />
